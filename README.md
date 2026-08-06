@@ -6,12 +6,9 @@ Public portfolio for Hardik Vaghasiya, focused on secure mobile platforms, iOS a
 
 https://hvaghasia.github.io/
 
-## Technology
+## Current release
 
-- Semantic HTML
-- Modern CSS
-- Minimal progressive-enhancement JavaScript
-- GitHub Pages
+The production site uses the approved full portfolio design with modular HTML sections, responsive CSS, minimal JavaScript, GitHub Pages publishing, SEO metadata, a custom 404 page, sitemap, robots file, favicon and social preview metadata.
 
 ## Public-content boundaries
 
